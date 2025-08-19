@@ -28,26 +28,23 @@ It combines modern UI/UX with **image recognition, 360° video playback, and map
 ---
 
 ## 📸 Screenshots & Demo
-> Add your screenshots and demo video here 
 
-Example:
+![App Screenshot 1](assets/1.png)
+![App Screenshot 2](assets/2.png)
+![App Screenshot 3](assets/3.png)
+![App Screenshot 4](assets/4.png)
+![App Screenshot 5](assets/5.png)
+![App Screenshot 6](assets/6.png)
+![App Screenshot 7](assets/7.png)
+![App Screenshot 8](assets/8.png)
+![App Screenshot 9](assets/9.png)
+![App Screenshot 10](assets/10.png)
+![App Screenshot 11](assets/11.png)
+![App Screenshot 12](assets/12.png)
+![App Screenshot 13](assets/13.png)
+![App Screenshot 14](assets/14.png)
+![App Screenshot 15](assets/15.png)
 
-```markdown
-![App Screenshot](assets/1.png)
-![App Screenshot](assets/2.png)
-![App Screenshot](assets/3.png)
-![App Screenshot](assets/4.png)
-![App Screenshot](assets/5.png)
-![App Screenshot](assets/6.png)
-![App Screenshot](assets/7.png)
-![App Screenshot](assets/8.png)
-![App Screenshot](assets/9.png)
-![App Screenshot](assets/10.png)
-![App Screenshot](assets/11.png)
-![App Screenshot](assets/12.png)
-![App Screenshot](assets/13.png)
-![App Screenshot](assets/14.png)
-![App Screenshot](assets/15.png)
 ![Database design](assets/database.png)
-![DFD](assets/pasted_image.png)
-![Workflow](assets/pasted_image2.png)
+![DFD](assets/dfd.png)
+![Workflow](assets/workflow.png)
