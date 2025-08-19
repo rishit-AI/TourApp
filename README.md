@@ -8,18 +8,18 @@ It combines modern UI/UX with **image recognition, 360° video playback, and map
 ---
 
 ##  Features
-- 📷 View images of tourist attractions 
-- 🎥 Enjoy **360° immersive videos** 
-- 🏞️ Explore **facts with supporting images** 
-- 🔍 Search places by:
+- View images of tourist attractions 
+- Enjoy **360° immersive videos** 
+- Explore **facts with supporting images** 
+- Search places by:
   - Text query 
   - Image recognition (CNN-based) 
   - UI navigation 
-- 🗺️ Map integration for location-based exploration 
+- Map integration for location-based exploration 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Flutter** — Cross-platform mobile development 
 - **TensorFlow & Keras** — Convolutional Neural Networks (image recognition) 
 - **Firebase** — Backend services & authentication 
@@ -27,7 +27,7 @@ It combines modern UI/UX with **image recognition, 360° video playback, and map
 
 ---
 
-## 📸 Screenshots & Demo
+##  Screenshots & Demo
 
 ![App Screenshot 1](assets/1.jpeg)
 ![App Screenshot 2](assets/2.jpeg)
@@ -45,6 +45,11 @@ It combines modern UI/UX with **image recognition, 360° video playback, and map
 ![App Screenshot 14](assets/14.jpeg)
 ![App Screenshot 15](assets/15.jpeg)
 
+**Database design**
 ![Database design](assets/database.png)
+
+**DFD**
 ![DFD](assets/dfd.png)
+
+**Workflow**
 ![Workflow](assets/workflow.png)
